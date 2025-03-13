@@ -1,0 +1,29 @@
+p {
+  font-size: 20px;
+}
+
+
+body {
+  
+  font-family: "Arial", "Meiryo", sans-serif;
+}
+
+
+.google-fonts {
+  /* ここにGoogle Fontsを指定します */
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: 200%;
+}
+
+
+.decoration {
+  letter-spacing: 1.2em;
+  border-bottom: solid 3px rgb(115, 115, 114);
+  font-weight: bold;
+  color: rgb(255, 192, 203);
+}
+
+.text-bold {
+  font-weight: bold;
+ }
+   
